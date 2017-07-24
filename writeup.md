@@ -44,7 +44,7 @@ Here is my output images of each step:
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-One potential shortcoming would be what would happen when something bright color of objects on the road. Please see the next image, and you can see that right line is slightly weird due to a short line on bottom right.
+One potential shortcoming would be what would happen when something bright color of objects on the road. Please see the next image, and you can see that left line is slightly weird due to a short line on bottom left.
 
 ![alt text][image6]
 
