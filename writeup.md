@@ -33,7 +33,7 @@ My pipeline consisted of 5 steps. First, I changed the images to grayscale, then
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function. First, I divided two section by its slope: positive or negative, then I divided sections by locations of x1 and x2. Because a few of lines made incorrect slope lines what I want. If the x1 and x2 located in incorrect side, I changed values to previous values. After that I calculated each average to make both side of a representative line.
 
-If you'd like to include images to show how the pipeline works, here is how to include images:
+Here is my output images of each step:
 
 ![alt text][image1]
 ![alt text][image2]
